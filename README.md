@@ -9,19 +9,19 @@ currently spending a lot of time on eeg, applied ml, and cancer research
 
 ### research + building
 
-**applied ml research @ dc lab**  
+- **applied ml research @ dc lab**  
 working around agentic ai, biomedical ml + melanoma research
 
-**neuroscience research @ ru**  
+- **neuroscience research @ ru**  
 computational neuroscience + modeling, focused on the neuromuscular side
 
-**urban analytics research w/ prof. odonkor**  
+- **urban analytics research w/ prof. odonkor**  
 building interactive data/visualization tooling around cities, geospatial data, and urban systems
 
-**independent neuro / eeg work**  
+- **independent neuro / eeg work**  
 currently building software and figuring out signal processing + neuroscience to know when my own model is lying
 
-**other cool stuff**  
+- **other cool stuff**  
 doing independent ai/ml projects + working with other people interested in frontier tech
 
 ---
