@@ -1,4 +1,4 @@
-# vandit bhatia
+# hi im vandit bhatia
 
 16 · nj · cs / ml / neuro/bio 
 
