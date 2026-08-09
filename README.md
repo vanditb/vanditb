@@ -1,9 +1,9 @@
 # vandit bhatia
 
-16 · nj · cs / ml / neuro/bio / cool stuff
+16 · nj · cs / ml / neuro/bio 
 
 mostly interested in systems that sit somewhere between research and actual products.  
-currently spending a lot of time on eeg, applied ml, and cancer research
+currently spending a lot of time on neuro ai, applied ml, and bio research
 
 ---
 
