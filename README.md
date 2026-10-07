@@ -12,7 +12,7 @@ currently spending a lot of time on neuro ai, applied ml, bio research, and star
 - **applied ml + ai research @ dc lab**  
 - **comp neuroscience research @ ru**  
 - **urban analytics ml research @ siot**  
-- **independent ai + healthcare projects**  
+- **independent ai/ml projects**  
 - **other cool stuff**
 
 ---
